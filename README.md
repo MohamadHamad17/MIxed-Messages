@@ -1,6 +1,6 @@
 # Inspirational Messages - MixedMessages
 
-Welcome to the **MixedMessages** page! This project is a simple yet delightful HTML, CSS, and JavaScript webpage that displays a new inspirational message every time you click the button.
+Welcome to the **MixedMessages** page! This project is a simple created with HTML, CSS, and JavaScript webpage that displays a new inspirational message every time you click the button.
 
 ## Features
 
