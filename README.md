@@ -26,3 +26,5 @@ Welcome to the **MixedMessages** page! This project is a simple created with HTM
 <img width="1395" alt="Screenshot 2024-07-24 at 3 17 13 PM" src="https://github.com/user-attachments/assets/e88ca631-d058-422d-968f-33a95706bddd">
 
 Stay inspired and keep pushing forward!
+
+website link deployed using netlify: https://aesthetic-pony-3908d9.netlify.app
