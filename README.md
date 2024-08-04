@@ -27,4 +27,4 @@ Welcome to the **MixedMessages** page! This project is a simple created with HTM
 
 Stay inspired and keep pushing forward!
 
-website link deployed using netlify: https://aesthetic-pony-3908d9.netlify.app
+website link deployed using netlify: https://doseofpositivity.netlify.app
